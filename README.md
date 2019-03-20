@@ -1,2 +1,3 @@
 # Tienda
-Simulacion de una tienda en linea programada en el lenguaje C. Ofrece la posibilidad de agregar, remover y procesar la compra
+
+Este es un proyecto hecho con el lenguaje de programacion C, es una simulacion de una tienda, donde el usuario puede ver la lista de articulos, estos estan separados por secciones y se pueden agregar a una lista de compra. Se puede ver o eliminar articulos de la lista de compra y proceder con la compra, como en una tienda online.
